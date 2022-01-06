@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4c60638d92101584aaa0b7bd812fa5ca9cb8e5b8",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x531dffc6a22b9fc61fb6d458db0763dcbb54c36d543e5d36d8bcf49537f6ec71",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Cocks",
+  "SYMBOL": "CCNFT",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-cocks-nft",
+  "SHOW_BACKGROUND": true
+}
